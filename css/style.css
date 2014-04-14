@@ -739,6 +739,7 @@ input[type="submit"]:hover {
 @media (max-width: 724px) {
 	.header-wrapper h1 {
 		font-size:36px;
+		margin-top: 150px;
 	}
 
 	.headshot {

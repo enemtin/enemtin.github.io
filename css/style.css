@@ -837,7 +837,7 @@ input[type="submit"]:hover {
 
 	.header {
 		background-image: url("../img/heroimagesmall.jpg");
-		width: 100%;
+		max-width: 100%;
 		background-attachment: fixed;
 		background-size: cover;
 		background-repeat: no-repeat;

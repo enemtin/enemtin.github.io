@@ -184,7 +184,7 @@ ul.mainmenu li a {
 
     .header-wrapper h1 {
     	text-align: center;
-    	font-size: 44px;
+    	font-size: 46px;
     	font-weight: 300;
     	text-shadow:1px 1px rgba(93, 95, 100, 0.6);
     }
@@ -837,7 +837,7 @@ input[type="submit"]:hover {
 
 	.header {
 		background-image: url("../img/heroimagesmall.jpg");
-		width: 100%;
+		max-width: 100%;
 		background-attachment: fixed;
 		background-size: cover;
 		background-repeat: no-repeat;

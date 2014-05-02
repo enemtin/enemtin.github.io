@@ -837,7 +837,7 @@ input[type="submit"]:hover {
 
 	.header {
 		background-image: url("../img/heroimagesmall.jpg");
-		width: 100%;
+		max-width: 100%;
 		/*background-attachment: fixed;*/
 		background-size: cover;
 		background-repeat: no-repeat;
@@ -859,6 +859,14 @@ input[type="submit"]:hover {
 		width: 33.3%;
 		float: left;
 
+	}
+	
+	.header {
+		background-image: url("../img/heroimagesmall.jpg");
+		max-width: 100%;
+		/*background-attachment: fixed;*/
+		background-size: cover;
+		background-repeat: no-repeat;
 	}
 	
 	.divider h2 {

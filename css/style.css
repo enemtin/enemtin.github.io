@@ -591,9 +591,9 @@ a.social-icon {
 /*Contact section and form*/
 
 .contact {
-    background-image:url("../img/contactbackground.png");
+    	/*background-image:url("../img/contactbackground.png");*/
 	width: 100%;
-	background-color:#25303B;
+	background-color:rgba(208, 208, 208, 0.63);
 	text-align: center;
 	padding-bottom: 30px;
 
@@ -639,7 +639,7 @@ input[type="submit"] {
 }
 
 input[type="submit"]:hover {
-	background: rgba(211, 211, 211, 0.61);
+	background: #3498db;
 	color: #fff;
 
 }
@@ -652,11 +652,11 @@ input[type="submit"]:hover {
 	padding: 1px;
 	font-size: 12px;
 	font-weight: lighter;
-	color:whitesmoke;
+	color:#848484;
 	text-transform: uppercase;
-	background-image: url("../img/contactbackground.png");
+	/*background-image: url("../img/contactbackground.png");*/
 	width: 100%;
-	background-color: #25303B;
+	background-color: rgba(208, 208, 208, 0.63);
 	border-top: 1px solid whitesmoke;
 
 }
@@ -681,7 +681,7 @@ input[type="submit"]:hover {
 
 	.footer-menu li {
 		display: inline;
-		border-right: 1px solid whitesmoke;
+		border-right: 1px solid #848484;
 		padding: 0 10px;
 		vertical-align: middle;
 
@@ -694,12 +694,12 @@ input[type="submit"]:hover {
 	.footer-menu a {
 		text-decoration: none;
 		letter-spacing: 1px;
-		color: whitesmoke;
+		color: #848484;
 		font-size: 9px;
 	}
 
 	.footer-menu a:hover {
-		border-bottom: 1px solid whitesmoke;
+		border-bottom: 1px solid #848484;
 	}
 
 

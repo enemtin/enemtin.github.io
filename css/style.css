@@ -641,6 +641,10 @@ input[type="submit"] {
 input[type="submit"]:hover {
 	background: #3498db;
 	color: #fff;
+	transition: color .55s linear, background-color .55s ease-in-out, border-color .55s ease-in-out;
+	-webkit-transition: color .55s linear, background-color .55s ease-in-out, border-color .25s ease-in-out;
+	-moz-transition: color .55s linear, background-color .55s ease-in-out, border-color .55s ease-in-out;
+	-o-transition: color .55s linear, background-color .55s ease-in-out, border-color .55s ease-in-out;
 
 }
 

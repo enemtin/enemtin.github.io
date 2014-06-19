@@ -225,7 +225,7 @@ ul.mainmenu li a {
 
 .about h2 {
 	text-align: left;
-	color: #606D82;
+	color: #3F434A;
 }
 
 .inner-wrapper {
@@ -292,6 +292,10 @@ a.social-icon {
 	padding-right: 15px;
 	margin-top: 2em;
 }	
+
+.bio {
+	width:90%;
+}
 
 .bio-social {
 	width: 63%;
@@ -397,7 +401,7 @@ a.social-icon {
 		    color: #fff;
 		    text-align: center;
 		    position: relative;
-		    font-size: 16px;
+		    font-size: 19px;
 		    padding: 10px;
 		    margin: 20px 0 0 0;
 		    border-bottom: 1px solid rgba(0, 0, 0, 0.3);
@@ -406,8 +410,7 @@ a.social-icon {
 		}
 
 		.flip-container p {
-			font-style: italic;
-		    font-size: 12px;
+		    font-size: 13px;
 		    position: relative;
 		    color: #fff;
 		    padding: 10px 20px 20px;
@@ -459,7 +462,7 @@ a.social-icon {
 
 /* back, initially hidden pane */
 .back {
-	background: linear-gradient(#66d1ed, #658ded),#65afed;
+	background: #65afed;
 	min-height: 320px;
 	-webkit-transform: rotateY(180deg);
 	border-radius: 5px;

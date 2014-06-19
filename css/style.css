@@ -233,7 +233,7 @@ ul.mainmenu li a {
 	background: #686868;
 	background-image: url("../img/overlay.png");
 	padding: 33px;
-	background: linear-gradient(#53CCC3, #45B677),#ABB7C0;
+	background: #4abc96;
 	margin: 0 auto; 
 	overflow: hidden;
 }
@@ -619,7 +619,7 @@ a.social-icon {
 	margin:5px;
 	width: 48%;
 	float: left;
-	border:none;
+	border: 1px solid #D8D8D8
 }
 
 .contact-me input:first-child {

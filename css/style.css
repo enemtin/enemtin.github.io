@@ -855,6 +855,13 @@ input[type="submit"]:hover {
 	/*	background-size: cover;*/
 	/*	background-repeat: no-repeat;*/
 	/*}*/
+	
+	.header {
+	background-image: url(../img/heroimagesmall.jpg);
+	background-size: 800px;
+	height: 100%;
+	
+	}	
 
 	.divider h2 {
 		width: 100%;
@@ -874,13 +881,13 @@ input[type="submit"]:hover {
 
 	}
 	
-	.header {
-		background-image: url("../img/heroimagesmall.jpg");
-		max-width: 100%;
-		background-attachment: fixed;
-		background-size: cover;
-		background-repeat: no-repeat;
-	}
+	/*.header {*/
+	/*	background-image: url("../img/heroimagesmall.jpg");*/
+	/*	max-width: 100%;*/
+	/*	background-attachment: fixed;*/
+	/*	background-size: cover;*/
+	/*	background-repeat: no-repeat;*/
+	/*}*/
 	
 	.divider h2 {
 		line-height: 1em; 

@@ -847,20 +847,10 @@ input[type="submit"]:hover {
 	.front img {
 		width: 54%;
 	}
-
-	/*.header {*/
-	/*	background-image: url("../img/heroimagesmall.jpg");*/
-	/*	max-width: 100%;*/
-		/*background-attachment: fixed;*/
-	/*	background-size: cover;*/
-	/*	background-repeat: no-repeat;*/
-	/*}*/
 	
 	.header {
 	background-image: url(../img/heroimagesmall.jpg);
 	background-size: 800px;
-	height: 100%;
-	
 	}	
 
 	.divider h2 {
@@ -878,16 +868,8 @@ input[type="submit"]:hover {
 	ul.mainmenu li {
 		width: 33.3%;
 		float: left;
-
 	}
-	
-	/*.header {*/
-	/*	background-image: url("../img/heroimagesmall.jpg");*/
-	/*	max-width: 100%;*/
-	/*	background-attachment: fixed;*/
-	/*	background-size: cover;*/
-	/*	background-repeat: no-repeat;*/
-	/*}*/
+
 	
 	.divider h2 {
 		line-height: 1em; 

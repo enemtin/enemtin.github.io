@@ -82,9 +82,9 @@ h4 {
 p {
 	font-family: "Open Sans", Helvetica, Arial, sans-serif;
 	font-weight: 300;
-	font-size: 1.6rem;
-	color: #848484;
-	line-height: 1.5em;
+	font-size: 1.7rem;
+	color: #505050;
+	line-height: 1.4em;
 }
 
 /* Navigation bar style*/
@@ -213,7 +213,7 @@ ul.mainmenu li a {
 	padding: 3%;
 	text-align: center;
 	margin: 0 auto;
-	background: linear-gradient(#53B3CC, #658ded),#65afed;
+	background: linear-gradient(160deg,#65A4D1 10%,rgba(211, 156, 87, 0.73) 80%;
 	box-shadow: 0 1px 2px rgba(0,0,0,0.2);
 	opacity: 0.8;
 }
@@ -233,7 +233,7 @@ ul.mainmenu li a {
 	background: #686868;
 	background-image: url("../img/overlay.png");
 	padding: 3%;
-	background: #4abc96;
+	background: linear-gradient(160deg,#65A4D1 10%,rgba(211, 156, 87, 0.73) 80%);
 	margin: 0 auto; 
 	overflow: hidden;
 }
@@ -356,13 +356,13 @@ a.social-icon {
 	.divider {
 		width: 90%;
 		height: 40px;
-		border-top: 1px solid #6093e7;
+		border-top: 1px solid #4B6890;
 		text-align: center;
 		margin: 90px auto 20px auto
 	}
 
 		.divider h2 {
-			color: #6093e7;
+			color: #4B6890;
 			font-size: 3.8rem;
 			background-color: #FFF;
 			margin-top: -40px;
@@ -449,7 +449,7 @@ a.social-icon {
 
 /* front pane, placed above back */
 .front {
-	background: #6093e7;
+	background: #92AAB2;
 	z-index: 2;
 	min-height: 320px;
 	text-align: center;
@@ -463,7 +463,7 @@ a.social-icon {
 
 /* back, initially hidden pane */
 .back {
-	background: #65afed;
+	background: #92AAB2;
 	min-height: 320px;
 	-webkit-transform: rotateY(180deg);
 	border-radius: 5px;
@@ -537,7 +537,7 @@ a.social-icon {
 }
 
 .fill {
-	background: #3498db;
+	background: rgba(105, 120, 131, 0.76);
 	display: block;
 	color: whitesmoke;
 	text-align: right;
@@ -548,27 +548,27 @@ a.social-icon {
 
 	.skills-left:hover .fill-html5 {
 		width:95%;
-		background:#f1c40f;
+		background:#D6B384;
 	}
 
 	.skills-left:hover .fill-css3 {
 		width:90%;
-		background:#f1c40f;
+		background:#D6B384;
 	}
 
 	.skills-left:hover .fill-seo {
 		width:80%;
-		background:#f1c40f;
+		background:#D6B384;
 	}
 
 	.skills-left:hover .fill-webdev {
 		width:85%;
-		background:#f1c40f;
+		background:#D6B384;
 	}
 
 	.skills-left:hover .fill-wordpress {
 		width:70%;
-		background:#f1c40f;
+		background:#D6B384;
 	}
 
 	
@@ -576,7 +576,7 @@ a.social-icon {
 
 .photo-letters {
   font-family: 'Roboto';
-  font-size: 110px;
+  font-size: 90px;
   line-height: 120%;
   font-weight: bold;
   padding-top: 50px;

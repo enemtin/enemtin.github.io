@@ -211,7 +211,7 @@ ul.mainmenu li a {
 /*styling for about emma section*/
 
 .about {
-	padding: 5%;
+	padding: 2%;
 	text-align: center;
 	margin: 0 auto;
 /*	background: linear-gradient(160deg,#65A4D1 10%,rgba(211, 156, 87, 0.73) 80%);
@@ -252,6 +252,7 @@ ul.mainmenu li a {
 	float: left;
 	margin-top: 10px;
 	text-align: center;
+	padding-bottom: 3%;
 
 }
 
@@ -290,17 +291,14 @@ a.social-icon {
 	}	
 
 .headshot {
-	width: 30%;
+	width: 50%;
 	float: left;
 }	
 
 .headshot img {
-	max-width: 90%;
-	width: 100%;
+	max-width: 100%;
 	z-index: 1000;
 	visibility: hidden;
-	padding-right: 15px;
-	margin-top: 2em;
 }	
 
 .bio {
@@ -308,7 +306,7 @@ a.social-icon {
 }
 
 .bio-social {
-	width: 63%;
+	width: 75%;
 	margin-left:31%;
 }
 

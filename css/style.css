@@ -200,8 +200,8 @@ ul.mainmenu li a {
     text-align: center;
     font-size: 12px;
     text-transform: uppercase;
-    color: whitesmoke;
-    font-weight: 300
+    color: rgb(47, 46, 46);
+    font-weight: 400;
   }  
 
   .scrolldown .icon {
@@ -792,6 +792,7 @@ input[type="submit"]:hover {
 @media (max-width: 663px) {
 	.header-wrapper h1 {
 		font-size:34px;
+		color:white;
 	}
 
 	a.logo {
